@@ -17,6 +17,6 @@ function Banner() {
       </section>
     </>
   );
-}
+ }
 
 export default Banner;
