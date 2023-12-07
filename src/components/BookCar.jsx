@@ -340,6 +340,6 @@ function BookCar() {
       </div>
     </>
   );
-}
+ }
 
 export default BookCar;
