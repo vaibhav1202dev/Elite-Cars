@@ -20,6 +20,6 @@ function CarBox({ data, carID }) {
       ))}
     </>
   );
-}
+ }
 
 export default CarBox;
