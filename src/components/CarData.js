@@ -42,4 +42,4 @@ export const CAR_DATA = [
       img: jimny,
     },
   ],
-];
+  ];
