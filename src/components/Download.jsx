@@ -10,9 +10,8 @@ function Download() {
           <div className="download-text">
             <h2>Download our app to get most out of it</h2>
             <p>
-              Thrown shy denote ten ladies though ask saw. Or by to he going
-              think order event music. Incommode so intention defective at
-              convinced. Led income months itself and houses you.
+              Download Elite Cars app and Discover the best deals you'll ever find with our unbeatable offers. We're 
+              dedicated to providing you with the best value for your money, so you can enjoy top-quality services.
             </p>
             <div className="download-text__btns">
               <img alt="download_img" src={Img2} />
