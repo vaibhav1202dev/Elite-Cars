@@ -17,5 +17,27 @@
 
 <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Elite-Cars/assets/142654068/719a9aab-11e0-40d6-94d8-c2df886965dd.png'/>
-
 </div>
+
+<h3 align='center'>Book Car Page 📝</h3>
+
+<div align='center'>
+<img src='https://github.com/vaibhav1202dev/Elite-Cars/assets/142654068/afa5ded4-8360-4dfd-8b77-d7b83daf84a1.png'/>
+</div>
+
+## <h2> Installation and Setup Instructions 🛠️</h2>
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Run Test Suite:  
+
+`npm test`  
+
+To Start Server:
+
+`npm start` 
+
