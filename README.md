@@ -38,7 +38,7 @@ To Run Test Suite:
 
 `npm test`  
 
-To Start Server:
+ To Start Server:
 
 `npm start` 
 
