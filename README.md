@@ -1,4 +1,4 @@
- <div align='center'><img style="width:30%" src='https://github.com/vaibhav1202dev/Elite-Cars/assets/142654068/1c96c6be-304d-4ce6-b5a9-4523112a6f3b.png'/></div>
+  <div align='center'><img style="width:30%" src='https://github.com/vaibhav1202dev/Elite-Cars/assets/142654068/1c96c6be-304d-4ce6-b5a9-4523112a6f3b.png'/></div>
 <div align='center'><h1>Elite-Cars</h1></div>
 
 <h2>About the project</h2>
